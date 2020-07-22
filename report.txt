@@ -1,0 +1,3 @@
+Nutella | 2.5 | 50000 | Hazelnut cocoa spread for adults
+Chocolate | 1.5 | 250 | Bad for kids, good for papas
+Coca Cola | 0.8 | 25660 | Addictive should be refreshing but its not drink
